@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-  🌟 Solved.ac Rank 
+  🌟 Solved.ac
 </h3>
 <div>
   <a href="[https://solved.ac/profile/nomad8](https://solved.ac/profile/nomad8)">

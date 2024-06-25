@@ -1,4 +1,4 @@
-### ✨Software Engineer✨
+###   Software Engineer lujae
 
 <!--
 **LujaeDev/LujaeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-
-  
 <h3>
-  📊 Github Stats 
-</h3>
-
-  ![Lujaec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lujaec&show_icons=true&theme=traspart)
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LujaeC&layout=compact&theme=traspart" alt="Top Langs"/>
-
-<h3>
-  🏅 Algorithm Backjoon Rank 
+  🌟 Solved.ac Rank 
 </h3>
 <div>
   <a href="[https://solved.ac/profile/nomad8](https://solved.ac/profile/nomad8)">
@@ -38,7 +25,17 @@ Here are some ideas to get you started:
 </div>
 
 <h3>
-  ⚙️ Tech Blog 
+  🌟 Github Stats 
+</h3>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lujaec&show_icons=true&theme=transparent" alt="Lujaec's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lujaec&layout=compact&theme=transparent" alt="Top Langs">
+</div>
+
+
+<h3>
+  🌟 Tech Blog 
 </h3>
 <div>  
   <a href="https://medium.com/@youjae0803">

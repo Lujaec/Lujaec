@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   🌟 Solved.ac
 </h3>
 <div>
-  <a href="[https://solved.ac/profile/nomad8](https://solved.ac/profile/nomad8)">
+  <a href="https://solved.ac/profile/nomad8">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nomad8" alt="Solved.ac Profile"/>
   </a>
 </div>

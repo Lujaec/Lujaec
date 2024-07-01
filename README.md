@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>
-  🌟 Solved.ac
+  💎 Solved.ac
 </h3>
 <div>
   <a href="https://solved.ac/profile/nomad8">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 <h3>
-  🌟 Github Stats 
+  💎 Github Stats 
 </h3>
 
 <div>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <h3>
-  🌟 Tech Blog 
+  💎 Tech Blog 
 </h3>
 <div>  
   <a href="https://medium.com/@youjae0803">

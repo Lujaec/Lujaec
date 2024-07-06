@@ -15,15 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>
-  💎 Solved.ac
-</h3>
+### 💎 Experiences
+* Kakao x goorm 9oormthon UNIV  - Backend `2024.03 ~ 2024.03`
+* 대학생 연합 IT 동아리 IT's Time 4th - BackEnd `2023.09 ~ 2024.01`
 
+### 💎 Awards
+* 세종대학교 창의설계경진대회 우수상 - DC빌딩 에너지 예측 및 관리 시스템 `2024.06`
+* 세종대학교 컴공X소웨 학술제 3등 - DC빌딩 에너지 예측 및 관리 시스템 `2024.06`
+
+### 💎 Solved.ac
 [![nomad8's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=nomad8)](https://solved.ac/profile/nomad8)
 
-<h3>
-  💎 Github Stats 
-</h3>
+### 💎 Github Stats 
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Lujaec&show_icons=true&theme=transparent" alt="Lujaec's GitHub stats">
@@ -31,9 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3>
-  💎 Tech Blog 
-</h3>
+### 💎 Tech Blog 
 <div>  
   <a href="https://medium.com/@youjae0803">
     <img src="https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white" />&nbsp

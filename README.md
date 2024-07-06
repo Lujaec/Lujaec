@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 <h3>
   💎 Solved.ac
 </h3>
-<div>
-  <a href="https://solved.ac/profile/nomad8">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nomad8" alt="Solved.ac Profile"/>
-  </a>
-</div>
+
+[![nomad8's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=nomad8)](https://solved.ac/profile/nomad8)
 
 <h3>
   💎 Github Stats 

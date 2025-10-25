@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * EsoopCompany (biztoss) - BackEnd `2024.12 ~ 2025.08`
 
 ### Experience
-* YAPP 25th - BackEnd `2024.11 ~ now`
+* YAPP 25th - BackEnd `2024.11 ~ 2025.03`
 * Kakao x goorm 9oormthon UNIV  - BackEnd `2024.02 ~ 2024.08`
 * 대학생 연합 IT 동아리 IT'S TIME 4th - BackEnd `2023.09 ~ 2024.01`
 

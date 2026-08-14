@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Career
 * EsoopCompany (biztoss) - BackEnd `2024.12 ~ 2025.08`
+* Kakao - BackEnd `2026.01 ~`
 
 ### Experience
 * YAPP 25th - BackEnd `2024.11 ~ 2025.03`
